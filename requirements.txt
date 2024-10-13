@@ -1,0 +1,6 @@
+streamlit
+python-docx
+langchain
+PyPDF2
+mysql-connector-python
+transformers
